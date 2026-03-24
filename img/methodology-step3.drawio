@@ -1,0 +1,51 @@
+<mxfile host="draw.ernw.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1362" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-7" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F0J52Mm51vZtWi5Ymhz3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="F0J52Mm51vZtWi5Ymhz3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-8" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F0J52Mm51vZtWi5Ymhz3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="F0J52Mm51vZtWi5Ymhz3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Is there a vendor fix&lt;div&gt;&amp;nbsp;for the issue?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="165" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Deployment of&amp;nbsp;&lt;div&gt;vendor fix&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Usage of existing&amp;nbsp;&lt;div&gt;admission policy sets&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Definition of&amp;nbsp;&lt;div&gt;custom policies&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="254" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-9" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F0J52Mm51vZtWi5Ymhz3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="F0J52Mm51vZtWi5Ymhz3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-10" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F0J52Mm51vZtWi5Ymhz3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="F0J52Mm51vZtWi5Ymhz3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-13" connectable="0" parent="F0J52Mm51vZtWi5Ymhz3-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Yes&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7397" y="2" as="geometry">
+            <mxPoint x="-6" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Is there an existing&lt;div&gt;&amp;nbsp;custom policy set&lt;/div&gt;&lt;div&gt;&amp;nbsp;to fix the issue?&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="165" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-12" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="F0J52Mm51vZtWi5Ymhz3-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="385" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
